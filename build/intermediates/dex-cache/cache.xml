@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\597acb79cedba3f052d3108cd6057b4b75d9fe86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_0ce56e63bc2133b7cc9e77c927e564c56c9d9903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\f36deeabd217f081b0054a7e7b3b34eb48bb6435\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_f09307fe09e6b53a509e1d78270064e099ddaa24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d687ba5b72821845860e44a64bb4a1288c3c122a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\af798c25173ffefc596c7d13d316246bee054e7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_6af50ec16b83f91c6286b4ba468e945e62b1ad39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\f563129281b261223cedb7977664f536e2381716\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_a7c2f09d623d1b98a813d63de00560774b3f33a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\personal\nurburg\HealthWatcher\lib\commons-math3-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\commons-math3-3.6.1_731aa126cfd00c2020ead23fa901837b30afaca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\29f53db3aabed12d68b1f5edf214d2fa23fb2a54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_6fdaaf2699aa09158cae141484c3ef895fe13f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\0b372690887e670723fa67dee2450ade0be6dcda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_94a9e842e52ff5f5031ea59699d27dd5d5e04ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\3ce153f576be1f3d1ec762bbb8ea627a50c6cd69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_4143e024459ce90927f64ba3f05ec59a7f669256.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\personal\nurburg\HealthWatcher\lib\commons-math3-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-math3-3.6.1_731aa126cfd00c2020ead23fa901837b30afaca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_63daa7545b80f5fc03ad8fbfa7f5aee071a8999b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\a6c0ce576c6006de22aba10ec8b42dd5c79755bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_3c063c046cb273b962306df59195a1d21df300e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\3931aa6f0750b0012cb7c1de8d41ef83e8f26f53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_8c755b1fc0a6e8502af844f7395014437568fa3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mpandey\.android\build-cache\2d770ded34c1fb2f103e1dc050313df7a3c2f404\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\pre-dexed\debug\classes_a8fde0e75fc89971b66afacb9c5dd8a74cebc177.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\personal\nurburg\HealthWatcher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ced06ad346d1e16d1e200a8e7ff9b0bf405f5935">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8dbde1dd65c381f48f4821222d7135930592ca25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\personal\nurburg\HealthWatcher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\personal\nurburg\HealthWatcher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f5c521d48f8db32189f24fa95f176547aa878622\classes.dex" />
+    </item>
+
+</items>
